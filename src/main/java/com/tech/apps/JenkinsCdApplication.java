@@ -10,4 +10,5 @@ public class JenkinsCdApplication {
 		SpringApplication.run(JenkinsCdApplication.class, args);
 	}
 
+	
 }

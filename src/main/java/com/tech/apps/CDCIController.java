@@ -9,6 +9,6 @@ public class CDCIController {
 
 	@RequestMapping(value = "/jenkins",method = RequestMethod.GET)
 	public String welcomeJenkise() {
-		return "Jenkins CD/CI PipeLine";
+		return "Jenkins CD/CI First PipeLine";
 	}
 }
